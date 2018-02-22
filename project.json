@@ -24,8 +24,8 @@
 			]
 		},
 		{
-			"name": "multicryptowallet",
-			"description": "Multi Crypto Wallet",
+			"name": "multicryptoledger",
+			"description": "Multi Crypto Ledger",
 			"platform": "weblogic",
 			"members": [
 				{
