@@ -22,6 +22,19 @@
 					"goal": "bulk upload data"
 				}
 			]
+		},
+		{
+			"name": "multicryptowallet",
+			"description": "Multi Crypto Wallet",
+			"platform": "weblogic",
+			"members": [
+				{
+					"name": "Kulcsár Kristóf",
+					"neptun": "KXEPVD",
+					"github": "krisz094"
+				}
+			],
+			"interfaces": [] 
 		}
 	]
 }
